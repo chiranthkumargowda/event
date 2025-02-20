@@ -1,0 +1,11 @@
+                                       EVENT MANAGEMENT
+
+INTRODUCTION
+Event management is the process of planning, organizing, and executing events. It can include conferences, trade shows, weddings, and parties. Event management is a vital part of many organizational strategies. 
+
+PURPOSE
+The purpose of event management is to plan, organize, and execute events to achieve specific goals. Event management can help promote events, build brands, and create memorable experiences.
+
+FUNCTIONAL REQUIREMENT
+The functional requirements of event management include: understanding client needs, booking venues, scheduling speakers, managing attendee registration, coordinating logistics like transportation and accommodation, marketing the event, managing budgets, ensuring compliance with legal requirements, and delivering a successful event within time and financial constraints; essentially, all the tasks needed to plan and execute an event from start to finish, meeting the specific goals and objectives of the client. 
+ 
